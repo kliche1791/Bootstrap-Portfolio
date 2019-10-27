@@ -2,10 +2,12 @@ body{
     background-image: url(../images/background.png);
 }
 
+.no-link{
+    text-decoration: none;
+}
 h1, h3{
     color: #4aaaa5;
-    
-
+       
 }
 .content{
     background-color: #ffffff;
